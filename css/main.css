@@ -1,5 +1,28 @@
-p{
-    text-align: center;
-    font-size: 100px;
-    color: blue;
+h1{
+  font-size: 100px;
+  font-family: "palatino";
+  }
+img{
+  width: 400px;
+}
+h2{font-size: 30px;
+   color: purple;
+   text-decoration: underline;
+   font-family: "palatino";
+}
+h3{font-size: 20px;
+   font-family: "palatino";
+}
+h4{font-size: 30px;
+   color: purple;
+   text-decoration: underline;
+   font-family: "palatino";
+}
+h5{font-size: 20px;
+   font-family: "palatino";
+}
+h6{font-size: 30px;
+   color: purple;
+   text-decoration: underline;
+   font-family: "palatino";
 }
